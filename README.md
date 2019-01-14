@@ -1,2 +1,5 @@
 # fullstack-0
-Fullstack-kurssin viikko 1
+Fullstack-kurssin osa 0
+
+
+[Vastaukset](palautus.md)
